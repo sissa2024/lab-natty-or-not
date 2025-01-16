@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mais que uma IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+As melhores maneiras de tornar seu vídeo feito em IA, o mais real possível
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Colpilot, Power Point, Adept
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilização do ChatGPT para criação de título e texto, Copilot para melhor pesquisa de conteúdo sobre o assunto
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresentação didática para sócios de uma empresa de cursos on-line
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
